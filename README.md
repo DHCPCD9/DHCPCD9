@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my life.
 - 📫 How to reach me:
    - Telegram: @dhcpcd9
-   - Discord: DHCPCD#0272 / https://discord.gg/s7nBfedDqt
+   - Discord: DHCPCD#0272 / https://discord.dhcpcd.xyz
 
 
 
