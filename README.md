@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @DHCPCD9
-- 👀 I’m interested in osu!
-- 🌱 I’m currently learning dotnet 6.x.x
-- 💞️ I’m looking to collaborate on my life.
-- 📫 How to reach me:
-   - Telegram: @dhcpcd9
-   - Discord: DHCPCD#0272 / https://discord.dhcpcd.xyz
-
-
-
+![DHCPCD's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhcpcd9&show_icons=true&theme=radical)
