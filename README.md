@@ -1,2 +1,6 @@
-![DHCPCD's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhcpcd9&show_icons=true&theme=radical)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhcpcd9&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Hi, I'm Egor
+
+I'm a developer from Ukraine🇺🇦
+
+I'm currently using this stack for my projects:
+![](https://skillicons.dev/icons?i=js,html,css,go,dotnet,react,docker,cs&theme=dark)
