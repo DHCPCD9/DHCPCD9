@@ -1,7 +1,6 @@
 Hi, I'm Egor
 
-I'm a developer from Ukraine🇺🇦
+I'm a developer from Ukraine🇺🇦, but currently located im Germany🇩🇪.
 
-I'm currently using this stack for my projects:
-
+I know how to use following technologies: 
 ![](https://skillicons.dev/icons?i=js,ts,html,css,go,dotnet,react,docker,cs,prisma&theme=dark)
