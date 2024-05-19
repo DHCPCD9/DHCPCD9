@@ -7,3 +7,5 @@ I know how to use following technologies: <br>
 
 ![](https://img.shields.io/badge/Ryzen%205%203600-f26421?style=for-the-badge&label=AMD)
 ![](https://img.shields.io/badge/GTX%201070-76B900?style=for-the-badge&label=NVIDIA)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/420663223344168976)](https://discord.com/users/420663223344168976)
