@@ -1,6 +1,6 @@
 Hi, I'm Vladyslav
 
-I'm a developer from Ukraine🇺🇦, but currently located im Germany🇩🇪.
+C%%%urrently located im Germany🇩🇪.
 
 I know how to use following technologies: <br>
 ![](https://skillicons.dev/icons?i=js,ts,html,css,go,dotnet,react,docker,cs,prisma,nextjs,rust&theme=dark)
